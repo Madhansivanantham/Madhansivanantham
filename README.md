@@ -1,5 +1,7 @@
 # 💫 About Me:
-Engineering Student
+# Hello, I'm Madhan 👋
+
+I am a passionate engineering student with a strong curiosity for technology and a drive to create innovative solutions. Currently pursuing my Bachelors Degree in Computer Science at Anna University, I am dedicated to exploring the world of software development, hardware engineering, and everything in between.
 
 
 # 💻 Tech Stack:
